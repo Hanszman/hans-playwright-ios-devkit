@@ -5,6 +5,9 @@ A simple devkit developed in Node.js to help replicate specific behaviors on iOS
 ## Commands used in the project:
 
 npm init -y
+
 npm i -D playwright
+
 npx playwright install webkit
+
 node ios-webkit-test.js
