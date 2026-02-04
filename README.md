@@ -10,4 +10,4 @@ npm i -D playwright
 
 npx playwright install webkit
 
-node ios-webkit-test.js
+node index.js
